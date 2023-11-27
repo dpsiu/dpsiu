@@ -1,17 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denver Siu
+Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Denver Siu
 ==================================================================================================================================
 
 Front End Software Developer and Web Designer
 ---------------------------------------------
 
-As a UX / Web Designer transitioning to Front-End Software Development, I bring user-focused design and usability from concept and brief to fruition.
+As a Web Designer turned Front End Software Developer, I'm thrilled to make the transition and create intuitive and engaging solutions.
 
 * 🌍  I'm based in Austin, TX
 * 🖥️  See my portfolio at [My Portfolio](http://denver-siu-portfolio.netlify.app/)
 * ✉️  You can contact me at [denversiu24@gmail.com](mailto:denversiu24@gmail.com)
 * 🧠  I'm learning React, Tailwind CSS, Node
-* 🤝  I'm open to collaborating on interesting projects!
+* 🤝  I'm open to collaborating on meaningful projects! Please feel free to reach out.
 * ⚡  Yelp Elite 2023
+* 🐦  Kurzgesagt fan
 
 ### Skills
 
