@@ -35,4 +35,4 @@ As a Web Designer turned Front End Software Developer, I'm thrilled to make the 
 
 <a href="https://github.com/dpsiu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpsiu&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<div width="100%" align="center"></div>/>
+<div width="100%" align="center"></div>
