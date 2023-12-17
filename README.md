@@ -9,7 +9,7 @@ As a Web Designer turned Front End Software Developer, I'm thrilled to make the 
 * 🌍  I'm based in Austin, TX
 * 🖥️  See my portfolio at [My Portfolio](http://denver-siu-portfolio.netlify.app/)
 * ✉️  You can contact me at [denversiu24@gmail.com](mailto:denversiu24@gmail.com)
-* 🧠  I'm learning React, NodeJS, ExpressJS, and MongoDB (Currently learning Mongo Atlas, CRUD Operations, Aggregations, Indexes, Transactions, Data Modeling)
+* 🧠  I'm currently learning React, NodeJS, ExpressJS, and MongoDB (Mongo Atlas, CRUD Operations, Aggregations, Indexes, Transactions, Data Modeling)
 * 🤝  I'm open to collaborating on projects! Please feel free to reach out for any kind of conversation.
 * ⚡  Yelp Elite 2023
 * 🐦  Kurzgesagt fan
@@ -30,8 +30,6 @@ As a Web Designer turned Front End Software Developer, I'm thrilled to make the 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dpsiu"><img src="https://github-readme-stats.vercel.app/api?username=dpsiu&show_icons=true&hide=stars,&title_color=f97316&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="dpsiu's GitHub stats" /></a>
-
-<a href="http://www.github.com/dpsiu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dpsiu&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/dpsiu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpsiu&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
