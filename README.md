@@ -9,7 +9,7 @@ As a Web Designer turned Front End Software Developer, I'm thrilled to make the 
 * 🌍  I'm based in Austin, TX
 * 🖥️  See my portfolio at [My Portfolio](http://denver-siu-portfolio.netlify.app/)
 * ✉️  You can contact me at [denversiu24@gmail.com](mailto:denversiu24@gmail.com)
-* 🧠  I'm currently learning React, NodeJS, ExpressJS, MongoDB, and SQL!
+* 🧠  After learning React, NodeJS, and ExpressJS, I'm diving into SQL and relational databases!
 * 🤝  I'm open to collaborating on projects! Please feel free to reach out for any kind of conversation.
 * ⚡  Yelp Elite 2023
 * 🐦  Kurzgesagt fan
